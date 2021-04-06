@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://nikitastetskiy.github.io">Nikita Stetskiy</a>!</h1>
 
 <p align="center">
-  <a href="https://github.com/nikitastetskiy"><img src="https://github-readme-stats.vercel.app/api?username=nikitastetskiy&hide_border=true&show_icons=true" alt="nikitastetskiy's github stats"></a>
+  <a href="https://github.com/nikitastetskiy"><img src="https://github-readme-stats.vercel.app/api?username=nikitastetskiy&hide_border=true&show_icons=true&text_color=D5E4F8&bg_color=0000" alt="nikitastetskiy's github stats"></a>
 </p>
 
 <p align="center">
