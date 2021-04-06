@@ -12,7 +12,7 @@
 
 <p align="center">
 <img src="octocat.gif" width="15px">
-&nbsp;I'm currently working on contributing more to open source projects&nbsp;
+&nbsp;I'm currently working on contributing more to open source projects!&nbsp;
 <img src="octocat.gif" width="15px">
 </p>
 
