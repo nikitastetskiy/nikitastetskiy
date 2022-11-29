@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <strong><a href="mailto:nikitastetskiy@gmail.com">Email</a></strong> |
   <strong><a href="https://nikitastetskiy.github.io">Portfolio</a></strong> |
   <strong><a href="https://nikitastetskiy.github.io/resume.pdf">Resume</a></strong> |
   <strong><a href="https://www.linkedin.com/in/nikitastetskiy">LinkedIn</a></strong>
