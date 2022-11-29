@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong><a href="https://nikitastetskiy.github.io">Portfolio</a></strong> |
-  <strong><a href="https://nikitastetskiy.github.io/static/media/resume.fd221113.pdf">Resume</a></strong> |
+  <strong><a href="https://nikitastetskiy.github.io/resume.pdf">Resume</a></strong> |
   <strong><a href="https://www.linkedin.com/in/nikitastetskiy">LinkedIn</a></strong>
 </p>
 
